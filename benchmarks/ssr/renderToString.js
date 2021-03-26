@@ -17,3 +17,6 @@ renderToString(new Vue(gridComponent), (err, res) => {
   console.log('Complete time: ' + (self.performance.now() - self.s).toFixed(2) + 'ms')
   console.log()
 })
+
+
+
